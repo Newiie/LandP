@@ -103,6 +103,8 @@ a {
     background-color: #3882F6;
     color: white;
     font-weight: bold;
+    border-radius: 6px;
+    border: 1px solid white;
 }
 
 .info {
